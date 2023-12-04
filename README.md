@@ -11,3 +11,7 @@ pip install numpy pandas matplotlib seaborn streamlit geopandas
 ```
 streamlit run ./dashboard/dashboard.py
 ```
+
+## Dashboard Streamlit Link
+
+https://project-analysis-data.streamlit.app/
