@@ -1,4 +1,4 @@
-# Proyek Analisis Data: E-Commere Public
+# Proyek Analisis Data: E-Commerce Public
 
 ## Setup environment
 
